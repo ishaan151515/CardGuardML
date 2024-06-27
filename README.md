@@ -1,9 +1,5 @@
-# CardGuardML
-Based on the information provided and drawing inspiration from the two example READMEs, here is a unique and comprehensive README for your credit card fraud detection project:
+# CardGuardML - Credit Card Fraud Detection Using Machine Learning
 
----
-
-# Credit Card Fraud Detection Using Machine Learning
 
 ## Overview
 
